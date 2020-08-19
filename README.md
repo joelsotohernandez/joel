@@ -1,1 +1,4 @@
 # joel eereadme
+
+
+Now
